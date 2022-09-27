@@ -1,0 +1,15 @@
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\bin\Debug\net6.0\thrnetapp1.exe
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\bin\Debug\net6.0\thrnetapp1.deps.json
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\bin\Debug\net6.0\thrnetapp1.runtimeconfig.json
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\bin\Debug\net6.0\thrnetapp1.dll
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\bin\Debug\net6.0\thrnetapp1.pdb
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.csproj.AssemblyReference.cache
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.AssemblyInfoInputs.cache
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.AssemblyInfo.cs
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.csproj.CoreCompileInputs.cache
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.dll
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\refint\thrnetapp1.dll
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.pdb
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\thrnetapp1.genruntimeconfig.cache
+C:\Projects\test\core\thrnet1\thrnetapp1\thrnetapp1\obj\Debug\net6.0\ref\thrnetapp1.dll
