@@ -25,7 +25,7 @@ namespace thrnetapp1
 
                 Console.WriteLine("Back on main thread.");
 
-            }, TaskScheduler.FromCurrentSynchronizationContext());
+            });
         }
 
     }
